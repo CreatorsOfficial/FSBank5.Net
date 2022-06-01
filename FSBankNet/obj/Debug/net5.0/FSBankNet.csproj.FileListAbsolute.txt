@@ -1,0 +1,16 @@
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\bin\Debug\net5.0\FSBankNet.exe
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\bin\Debug\net5.0\FSBankNet.deps.json
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\bin\Debug\net5.0\FSBankNet.runtimeconfig.json
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\bin\Debug\net5.0\FSBankNet.runtimeconfig.dev.json
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\bin\Debug\net5.0\FSBankNet.dll
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\bin\Debug\net5.0\ref\FSBankNet.dll
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\bin\Debug\net5.0\FSBankNet.pdb
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\FSBankNet.csproj.AssemblyReference.cache
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\FSBankNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\FSBankNet.AssemblyInfoInputs.cache
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\FSBankNet.AssemblyInfo.cs
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\FSBankNet.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\FSBankNet.dll
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\ref\FSBankNet.dll
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\FSBankNet.pdb
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNet\obj\Debug\net5.0\FSBankNet.genruntimeconfig.cache

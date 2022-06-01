@@ -1,0 +1,5 @@
+﻿     Creating library C:\Users\Muhammad Ramzan\source\repos\FSBankNet\Debug\FSBankNative.lib and object C:\Users\Muhammad Ramzan\source\repos\FSBankNet\Debug\FSBankNative.exp
+Source.obj : error LNK2019: unresolved external symbol _FSBank_Init@16 referenced in function _Create
+Source.obj : error LNK2019: unresolved external symbol _FSBank_Build@28 referenced in function _Create
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\FSBankNative\Dependencies\FSBank\lib\x64\fsbank_vc.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'x86'
+C:\Users\Muhammad Ramzan\source\repos\FSBankNet\Debug\FSBankNative.dll : fatal error LNK1120: 2 unresolved externals
