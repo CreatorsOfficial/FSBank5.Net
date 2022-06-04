@@ -10,7 +10,10 @@ extern "C" _declspec(dllexport) void Create();
 
 void Create()
 {
-	FSBANK_RESULT result = FSBank_Init(FSBANK_FSBVERSION_FSB5, FSBANK_INIT_NORMAL, 2, "G:/cache");
+	cout << "Enter Path for the FSBank to store cache:-     " << endl;
+	string cachePath;
+	cin >> cachePath;
+	FSBANK_RESULT result = FSBank_Init(FSBANK_FSBVERSION_FSB5, FSBANK_INIT_NORMAL, 2, cachePath.c_str());
 	cout << "FSBank Initialized" << endl;
 	cout << "FSBank API Result:-  ";
 	cout << FSBANK_RESULT_TOSTRING(result) << endl;
